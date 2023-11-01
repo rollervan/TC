@@ -1,5 +1,5 @@
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/rollervan/FunMat/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/rollervan/FunMat)
-[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:57c9e9851d8ac4289c2dd9cfadbbf0160ae4c910/)](https://archive.softwareheritage.org/swh:1:dir:57c9e9851d8ac4289c2dd9cfadbbf0160ae4c910;origin=https://github.com/rollervan/FunMat;visit=swh:1:snp:4cc3c4e3df9832e25d5039fa0364ffb8fa7eac79;anchor=swh:1:rev:1e226b41c35b6893907a97c5348787329654e6ec)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/rollervan/TC/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/rollervan/TC)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:9c54a6820c21e717871d65f233e70a99b121d480/)](https://archive.softwareheritage.org/swh:1:dir:9c54a6820c21e717871d65f233e70a99b121d480;origin=https://github.com/rollervan/TC;visit=swh:1:snp:030f93715a0d08bda750b3227cee7def57f10749;anchor=swh:1:rev:f5a5146e4587e778d6b0b7eaee110d73aa5c55f1)
 
 # <p style="text-align: center;">Repositorio de ejercicios prácticos de Tecnología de Computadores
 </p>
